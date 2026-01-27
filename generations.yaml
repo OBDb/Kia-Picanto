@@ -1,6 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Picanto"
+
 generations:
   - name: "First Generation (SA)"
-    start_year: 2004
+    start_year: 2003
     end_year: 2011
     description: "The original Kia Picanto (sold as the Morning in South Korea) was introduced as Kia's entry-level city car. Featuring a tall, boxy design typical of small cars from that era, it emphasized interior space efficiency and ease of urban use. Available primarily as a five-door hatchback, though a three-door variant was offered in some markets. Powertrain options included small-displacement petrol engines, typically 1.0L and 1.1L units, with modest power outputs focused on efficiency rather than performance. The interior was basic but practical, with a straightforward dashboard design and durable materials. This generation established the Picanto as Kia's smallest model globally, offering affordable transportation with surprising space efficiency and practicality for its tiny footprint."
 
