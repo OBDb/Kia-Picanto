@@ -1,6 +1,9 @@
 command_id: 7E0.0105
 test_cases:
 - expected_values:
+    ECT: 39
+  response: '7E8 03 41 05 4F '
+- expected_values:
     ECT: 21
   response: 7E80341053D
 - expected_values:
