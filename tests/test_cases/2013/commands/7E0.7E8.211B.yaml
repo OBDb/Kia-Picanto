@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.211B
 test_cases:
 - expected_values:
-    KIA_DPF_DIFFERENTIAL_PRESSURE: 0
+    PICANTO_DPF_DIFFERENTIAL_PRESSURE: 0
   response: |-
     7E81030611B00000000
     7E82100000000000000
